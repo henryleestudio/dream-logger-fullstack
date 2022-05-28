@@ -1,1 +1,1 @@
-# dream-logger-fullstack
+# Dream logger: Full Stack
