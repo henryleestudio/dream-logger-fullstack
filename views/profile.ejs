@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dream logger</title>
+</head>
+
+  <link rel="stylesheet" href="style.css">
+<body>
+  <h1> Dream log: </h1>
+
+
+  <!-- action includes a url parameter? CRUD are methods that tells the brower what type of request to send to the server.. The server pull info from the database.. -->
+  <!-- action tells the brower where to send the POST request, in this case to '/quotes' -->
+  <form action="/quotes" method="POST">
+    <input id="subjectField" type="date"  placeholder="date" name="date">
+    <textarea id="dreamBox" type="text" placeholder="dream" name="dream"></textarea>
+    <button id="logBtn" type="submit">Log</button>
+  </form>
+  <!-- must include the name attribute to catigories the info on the server -->
+
+<div>
+  <!-- <h2>Replace entry</h2> -->
+  <p>
+    Replace an entry by date
+  </p>
+
+  <form>
+    <input id="updatedDate" placeholder="date" type="date" name="newDate">
+    <button id="update-button" type="submit">Replace entry</button>
+    <textarea id="updateBox" type="text" placeholder="dream" name="dream"></textarea>
+  </form>
+</div>
+
+<div>
+  <!-- <h2>Remove entry</h2> -->
+  <p>
+    Remove an entry by date
+  </p>
+  <form>
+    <input id="deleteInput" placeholder="date" type="date" name="name">
+    <button id="delete-button" type="submit">Remove entry</button>
+  </form>
+</div>
+
+<div id="message"></div>
+
+<h2> Dream entry: </h2>
+
+<ul class="dreams">
+  <!-- Loop through quotes -->
+  <% for(var i = 0; i < dreams.length; i++) {%>
+    <li class="dream">
+      <!-- Output name from the iterated quote object -->
+      <span><%= dreams[i].date %></span>:
+      <!-- Output quote from the iterated quote object -->
+      <span><%= dreams[i].dream %></span>
+    </li>
+  <% } %>
+</ul>
+
+<script src="main.js"></script>
+</body>
+</html>

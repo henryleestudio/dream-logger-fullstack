@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+
+*{
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 62.5%;
+}
+
+body{
+  font-family: 'IBM Plex Mono', monospace;
+  margin: 5rem;
+  background-image: url("img/dreams-13.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 500;
+  line-height: 1.1;
+  color: inherit;
+}
+
+#subjectField{
+  /* float: left; */
+  display: block;
+}
+
+#dreamBox{
+  margin-top: 1rem;
+  height: 8vh;
+  width: 32vh;
+  display: block;
+}
+
+#logBtn{
+  margin-top: 1rem;
+}
+
+.btn-warning{
+  color: #1d861b;
+  background-color: #ffffbf;
+  border-color: white;
+}
+
+.alert-danger {
+  color: #b94a48;
+  background-color: #ffffbf;
+  border-color: white;
+}
+
+.container .jumbotron {
+  margin: auto;
+  background: none;
+  /* display: none; */
+}
+
+#updateBox{
+    display: block;
+    margin-top: 1rem;
+}
+
