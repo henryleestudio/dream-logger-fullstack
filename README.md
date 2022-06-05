@@ -1,7 +1,18 @@
 # Dream logger
-An application to track, update, and delete your dreams by date - Full stack
+Track, update, and delete your dreams by date - Full stack
 
-I've had 
+I've had vivid and prosthetic dreams for as long as I can remember. Some taught me profound life lessons, and some showed me matters of my heart, ancestry, and spirit. The more we track our dreams, the more we are able to become conscious within them. 
+
+JavaScript | Node.js | Express | Mongodb | Bootstrap | Graphic Design | Graphic Art | Photoshop CC
+
+Link to project: http://live-demos.com/
+
+img
+
+##Design
+Merging a gamey technological aesthetic with the deep and dreamy spacious feel. My intention was to resonate with the moment of waking up from a full dream. 
+
+I chose a color scheme and imagery that's not too harsh on the eyes, and could match the energy of the mindset. 
 
 <p align="left">
   <a href="https://henrylee.studio/" target="_blank">
