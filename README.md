@@ -9,7 +9,7 @@ Link to project: http://live-demos.com/
 
 img
 
-##Design
+## Design
 Merging a gamey technological aesthetic with the deep and dreamy spacious feel. My intention was to resonate with the moment of waking up from a full dream. 
 
 I chose a color scheme and imagery that's not too harsh on the eyes, and could match the energy of the mindset. 
