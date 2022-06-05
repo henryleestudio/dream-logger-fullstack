@@ -10,9 +10,7 @@ Link to project: http://live-demos.com/
 img
 
 ## Design
-Merging a gamey technological aesthetic with the deep and dreamy spacious feel. My intention was to resonate with the moment of waking up from a full dream. 
-
-I chose a color scheme and imagery that's not too harsh on the eyes, and could match the energy of the mindset. 
+A gamey / technological aesthetic merged with a deep and dreamy spacious feel. My intention were to resonate with the moment a person realizes their awake state, when the dream is fresh and easy to remember. I chose a color scheme and imagery that's easy on the eyes, and could match the energy of the mindset.
 
 <p align="left">
   <a href="https://henrylee.studio/" target="_blank">
