@@ -1,7 +1,7 @@
 # Dream logger
 Track, update, and delete your dreams by date - Full stack application
 
-I've had vivid and prosthetic dreams for as long as I can remember. Some taught me profound life lessons, and some showed me matters of my heart, ancestry, and spirit. The more we track our dreams, the more we are able to become conscious within them. 
+I've had vivid and prosthetic dreams for as long as I can remember. Some taught me profound life lessons, and some showed me the matters of my heart. My dreams have taken me on journeys of ancestry, and spirituality. The more we track our dreams, the more we are able to become conscious and create within them. 
 
 JavaScript | Node.js | Express | Mongodb | Bootstrap | Graphic Design | Graphic Art | Photoshop CC
 
