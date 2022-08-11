@@ -5,8 +5,6 @@ I've had vivid and prosthetic dreams for as long as I can remember. Some taught 
 
 JavaScript | Node.js | Express | Mongodb | Bootstrap | Graphic Design | Graphic Art | Photoshop CC
 
-Link to project: http://live-demos.com/
-
 ![localhost_3000_profile](https://user-images.githubusercontent.com/101936420/172062223-c5b3fe18-1dc2-451c-8bfa-817e2751b569.png)
 
 ![localhost_3000_login](https://user-images.githubusercontent.com/101936420/172062252-f080f9c2-23d4-44f8-b65f-5b655fd25a08.png)
@@ -33,7 +31,7 @@ A gamey / technological aesthetic merged with a deep and dreamy spacious feel. M
       <img src="https://user-images.githubusercontent.com/101936420/172000074-c75d3108-337c-4756-8a45-f05912613242.png" width="10%"/>
   </a>
 &nbsp
-  <a href="https://docs.google.com/document/d/11bE3jL_fGmSpUj5IAVL7uvYC7NxaE7yJhx3ftZXw0As/edit" target="_blank">
+   <a href="http://www.henrylee.studio/img/henry-lee-resume.pdf" target="_blank">
       <img src="https://user-images.githubusercontent.com/101936420/172000081-20e4d8e7-7785-4e19-94a9-4be5cf40506c.png" width="10%"/>
   </a>
   </p>
@@ -44,5 +42,5 @@ Contacting me directly? <br>
 Booking a session for creative direction? <br>
 Inquire about software engineer opportunities? <br>
 <br>
-Visit <a href = "https://henrylee.studio/">henryleestudio.com</a>
+Visit <a href = "https://henrylee.studio/">henrylee.studio</a>
 </section>
