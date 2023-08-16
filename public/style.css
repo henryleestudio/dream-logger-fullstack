@@ -17,6 +17,10 @@ body{
   background-size: cover;
   min-height: 100vh;
   color: #fff;
+  /* padding-left: 26rem;
+  padding-top: 1rem; */
+  z-index: -2;
+  margin: 0px;
 }
 
 .spaceOverlay{
@@ -32,11 +36,22 @@ body{
   transform: rotate(180deg);
 }
 
+.formSection{
+  padding-left: 26rem;
+  padding-top: 5rem;
+}
+
+li{
+  background: #000000e0;
+}
+
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: 'IBM Plex Mono', monospace;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
+  background: #000000e0;
+
 }
 
 #subjectField{
@@ -76,5 +91,19 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 #updateBox{
     display: block;
     margin-top: 1rem;
+}
+
+#loginSignup{
+  margin-top: 10rem;
+}
+
+.btn-default{
+  color: #010003;
+  background-color: #ffffbf;
+  border-color: white;
+}
+
+p{
+  background: #000000e0;
 }
 
