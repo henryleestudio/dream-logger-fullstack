@@ -5,6 +5,8 @@ I've had vivid and prosthetic dreams for as long as I can remember. Some taught 
 
 JavaScript | Node.js | Express | Mongodb | Bootstrap | Graphic Design | Graphic Art | Photoshop CC
 
+Link to project: <a target="_blank" href="https://dream-logger.up.railway.app/">live demo</a>
+
 ![localhost_3000_profile](https://user-images.githubusercontent.com/101936420/172062223-c5b3fe18-1dc2-451c-8bfa-817e2751b569.png)
 
 ![localhost_3000_login](https://user-images.githubusercontent.com/101936420/172062252-f080f9c2-23d4-44f8-b65f-5b655fd25a08.png)
