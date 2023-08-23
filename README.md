@@ -33,7 +33,7 @@ A gamey / technological aesthetic merged with a deep and dreamy spacious feel. M
       <img src="https://user-images.githubusercontent.com/101936420/172000074-c75d3108-337c-4756-8a45-f05912613242.png" width="10%"/>
   </a>
 &nbsp
-   <a href="http://www.henrylee.studio/img/henry-lee-resume.pdf" target="_blank">
+   <a href="https://henrylee.studio/images/resume/henry-lee-resume-shopify-design-development.pdf" target="_blank">
       <img src="https://user-images.githubusercontent.com/101936420/172000081-20e4d8e7-7785-4e19-94a9-4be5cf40506c.png" width="10%"/>
   </a>
   </p>
