@@ -1,6 +1,6 @@
-# Dream logger
+# Dream logger | Full stack application
 
-Track, update, and delete your dreams by date - Full stack application
+Track, update, and delete your dreams by date. 
 
 I've had vivid and prophetic dreams for as long as I can remember. Some taught me profound life lessons, and some showed me the matters of my heart. My dreams have taken me on journeys of ancestry, and spirituality. The more we track our dreams, the more we are able to become conscious and create within them.
 
