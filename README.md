@@ -1,12 +1,12 @@
 # Dream logger
 
-Link to project: <a target="_blank" href="https://dream-logger.up.railway.app/">live demo</a>
-
 Track, update, and delete your dreams by date - Full stack application
 
 I've had vivid and prophetic dreams for as long as I can remember. Some taught me profound life lessons, and some showed me the matters of my heart. My dreams have taken me on journeys of ancestry, and spirituality. The more we track our dreams, the more we are able to become conscious and create within them.
 
 A gamey / technological aesthetic merged with a deep and dreamy spacious feel. My intention were to resonate with the moment a person realizes their awake state, when the dream is fresh and easy toremember. I chose a color scheme and imagery that's easy on the eyes, and could match the energy of the mindset.
+
+Link to project: <a target="_blank" href="https://dream-logger.up.railway.app/">live demo</a>
 
 ![localhost_3000_profile](https://user-images.githubusercontent.com/101936420/172062223-c5b3fe18-1dc2-451c-8bfa-817e2751b569.png)
 
